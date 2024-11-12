@@ -24,4 +24,4 @@ with Docker
 ```
 5. open http://localhost:3000
 6.  test post endpoint http://localhost:3000/receipts/process
-7.  test get endpoint http://localhost:3000//receipts/:id/points
+7.  test get endpoint http://localhost:3000/receipts/:id/points
